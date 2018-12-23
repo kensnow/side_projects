@@ -1,0 +1,22 @@
+
+
+Mountain Quest is an idea for a full stack web site.
+
+The concept is to be a real world interactive RPG, where a person can complete 'quests' of different nearby hikes and also more complex quest groups (such as the NH 48 4000 footers, All major millcreek summits). 
+
+The site would allow users to sign up and create a unique charachter/profile which tracks thier progress.  Upon signup, thier charachter will begin at level 1, which will pull quests dynamically as well as globally offering challenges to reward them Exp. upon completion.
+
+To complete the quest, users will have to submit some validation of some sort, likely a selfie picture at destination, trailhead + summit, or some other confirmation.  This can be improved upon with an app to grab GPS data off the phone, however there hopefully is an easy option to scrap geo data from a cell phone picture.
+
+Different quests or combos provide different experience point rewards.
+
+Users can view thier current level, thier relative level against thier peers etc.
+
+MVP:
+Basic Front end/ux
+Account login and charater tracking
+level up conditions and structure
+quest generator
+quest database
+
+Additional functionality such as user created quests, user quest verification, a reward system, group quests, corporate sponsored quests, guild systems, forum, store, can be added.

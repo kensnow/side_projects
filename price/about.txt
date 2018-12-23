@@ -1,0 +1,26 @@
+Price is a multi-player business building website game app.
+
+vary basic game concept
+
+player starts with certain amount of startup funds.  The player will draw card/cards each turn from a card base.
+
+Turn counter idea, each turn is delayed by a certain amount of time.  Once the cool-off period is over, the player may play.  Once able to play, perhaps there is a negative outcome the longer the player waits to play.
+
+The car deck consists of business building options, additons and modification options.  
+
+the objective is to build a business over time.  User can raise funds, borrow funds, trade stock etc (economy methods need to be explored)
+
+possibly two major types of company, staples and discretionary, each with dynamic markets which change based on the game economy.
+
+Keep came persistant, however rolling expiration of server every n periods so game can refresh.
+--
+
+game flow
+
+Player starts new game
+
+Player starts with x$, x cards, possibly select biz type.
+
+thneed trees of possible product and resource needed to create product.
+
+as cards are drawn, business is created by card plays to 'node' together a business
